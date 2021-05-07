@@ -4,4 +4,6 @@
 - Hypothesis Testing notes and exercises (coming soon)
 
 
-#### All code was created while a Data Science student at Codeup 
+#### All code was created while I was a Data Science student at Codeup 
+
+
